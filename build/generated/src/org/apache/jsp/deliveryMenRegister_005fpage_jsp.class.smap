@@ -1,0 +1,14 @@
+SMAP
+deliveryMenRegister_005fpage_jsp.java
+JSP
+*S JSP
+*F
++ 0 deliveryMenRegister_page.jsp
+deliveryMenRegister_page.jsp
++ 1 normal_navbar.jsp
+normal_navbar.jsp
+*L
+5,28:49
+1#1,15:77
+32#0,148:92
+*E
